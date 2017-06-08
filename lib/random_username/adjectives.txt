@@ -17,11 +17,9 @@ amiable
 ample
 amusing
 ancient
-and
 apt
 aqua
 ardent
-are
 astute
 august
 avid
@@ -54,7 +52,6 @@ calm
 can
 canny
 cantaloupe
-cared
 carefree
 caring
 carnation
@@ -158,7 +155,6 @@ funny
 fuscia
 fuzzy
 generous
-genial
 gentle
 giant
 giddy
@@ -232,7 +228,6 @@ legal
 legit
 lemon
 light
-like
 liked
 likely
 limber
@@ -302,7 +297,6 @@ peachy
 peppy
 petite
 pink
-pithy
 placid
 plain
 pleasant
@@ -430,14 +424,12 @@ tall
 tan
 tangerine
 teal
-the
 thrifty
 thriving
 tidy
 timely
 tiny
 top
-tops
 tough
 touted
 tranquil
