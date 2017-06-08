@@ -14,7 +14,7 @@ module RandomUsername
   def self.username(options = {})
     options[:max_length] /= 2 if options[:max_length]
     options[:min_length] /= 2 if options[:min_length]
-    adjective(options) + noun(options)
+    adjective(options) + '-' + noun(options)
   end
 
   def self.get_item(filename, options = {})
