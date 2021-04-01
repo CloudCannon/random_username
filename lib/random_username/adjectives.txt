@@ -213,7 +213,6 @@ jovial
 joyful
 joyous
 jubilant
-juicy
 just
 keen
 khaki
@@ -248,7 +247,6 @@ magenta
 magnificent
 main
 major
-maraschino
 maroon
 master
 mature
@@ -349,7 +347,6 @@ safe
 sage
 salmon
 sassy
-saucy
 savvy
 scarlet
 scenic
